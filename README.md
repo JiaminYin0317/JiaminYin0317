@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I'm an Epidemiologist interested in mental health and cognition.
-- 🌱 I'm also trained as a Data Scientist.
+- 📈 I'm an Epidemiologist interested in mental health and cognition.
+- 🧑‍💻 I'm also trained as a Data Scientist.
 
 💼 Experience:
 - Biostatistic Intern at St. Jude children research hospital
