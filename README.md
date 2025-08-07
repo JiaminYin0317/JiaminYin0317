@@ -4,8 +4,8 @@
 - 🧑‍💻 I'm also trained as a Data Scientist.
 
 💼 Experience:
-- Biostatistic Intern at St. Jude children research hospital
-- Senior Statistical Programmer at Pfizer
+- Biostatistic Intern at St. Jude children research hospital, Memphis TN
+- Senior Statistical Programmer at Pfizer, Shanghai China
 
 📚 Education:
 - 🎓 Ph.D. in Epidemiology, University of Rochester Medical Center, Rochester NY
